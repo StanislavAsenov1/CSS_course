@@ -1,0 +1,21 @@
+main { 
+    background-color: #a6e1ec;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+section article {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+
+section article img, article p {
+  display: inline-block;
+  vertical-align: middle;
+}
+section article p {
+    color: #3c4fb4;
+    font-weight: bold;
+}
